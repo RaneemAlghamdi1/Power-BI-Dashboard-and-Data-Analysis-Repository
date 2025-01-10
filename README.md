@@ -9,8 +9,13 @@ This project contains Power BI dashboards and data analysis resources. It demons
 
 ## How to Use
 
-1. Download the Power BI files from the PowerBI-Dashboard/ folder.
-2. Open them in Power BI Desktop or Power BI Service to explore the dashboards and visualizations.
+ 1. Select the Correct Branch:
+ • In the top left corner, you will see a dropdown menu displaying the current branch. Click on this dropdown menu.
+ • From the list, select the master branch to view the files and folders.
+ 2. Navigate Through the Repository:
+ • Once you’ve selected the master branch, you’ll be able to see the main folders in the repository, each containing different Power BI dashboard files and their associated dataset files.
+ 3. Download Files:
+ • To download any file, click on it, and then press the Download button located on the file page.
 
 ## Additional Information
 
